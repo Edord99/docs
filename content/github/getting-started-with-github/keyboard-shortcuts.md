@@ -188,7 +188,8 @@ For more keyboard shortcuts, see the [CodeMirror documentation](https://codemirr
 |-----------|------------
 |<kbd>e</kbd> or <kbd>I</kbd> or <kbd>y</kbd> | Mark as read
 |<kbd>shift + m</kbd> | Mute thread
-{% endif %}
+{% endif %}[Apple_Pay_Mark_Guidelines.pdf](https://github.com/github/docs/files/6481204/Apple_Pay_Mark_Guidelines.pdf)
+
 
 ### Network graph
 
