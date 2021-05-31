@@ -1,3 +1,5 @@
+![E582ADEE-AE1F-49F7-9116-95EB84A29467](https://user-images.githubusercontent.com/68143690/120137831-d6c37900-c1dd-11eb-845f-5b8478c64ec5.png)
+![E5A4D053-4CF6-42B4-A8F2-91F7DB4DCF13](https://user-images.githubusercontent.com/68143690/120137857-eb077600-c1dd-11eb-9480-279390458ee6.png)
 ---
 title: Linking a pull request to an issue
 intro: You can link a pull request to an issue to show that a fix is in progress and to automatically close the issue when the pull request is merged.
